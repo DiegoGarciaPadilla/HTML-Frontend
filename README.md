@@ -1,6 +1,6 @@
 # *La Fontaine Bake Factory*
 
-<a href="https://wonderful-field-0e7123a10.1.azurestaticapps.net/">Link a la página</a>
+[Link a la página](https://diegogarciapadilla.github.io/HTML-Frontend/)
 
 La Fontaine Bake Factory se basa en la pastelería tradicional francesa y a partir de ella hace una propuesta inovadora combinando lo tradicional con lo moderno, consiguiendo sabores tan familiares como los de antaño y tan impresionantes como los del mañana.
 
